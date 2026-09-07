@@ -6,9 +6,16 @@ The purpose is **not** to test whether a model can repeat the charter's vocabula
 
 ## v1.0 dataset
 
-`encountering_the_other_v1.jsonl` contains 48 cases.
+The 48 cases are currently stored in six JSONL shards:
 
-Each case includes a scenario and evaluator-facing information such as the principles under pressure, positive behavioral anchors, and characteristic failure modes.
+- `encountering_the_other_v1_part01.jsonl` — A01–A08
+- `encountering_the_other_v1_part02.jsonl` — B01–B08
+- `encountering_the_other_v1_part03.jsonl` — C01–C08
+- `encountering_the_other_v1_part04.jsonl` — D01–D08
+- `encountering_the_other_v1_part05.jsonl` — E01–E08
+- `encountering_the_other_v1_part06.jsonl` — F01–F08
+
+Each case includes a scenario and evaluator-facing information such as the principles under pressure, positive behavioral anchors, characteristic failure modes, and rubric dimensions.
 
 The current release is a seed benchmark, not a validated psychometric instrument. It should be expanded, blinded, independently reviewed, and tested for prompt leakage and evaluator bias.
 
