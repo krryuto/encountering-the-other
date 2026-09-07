@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Encountering the Other: Alignment Seed v1.0"
+type: software
+authors:
+  - name: "Daniel"
+version: "1.0"
+date-released: "2026-09-07"
+repository-code: "https://github.com/krryuto/encountering-the-other"
+url: "https://github.com/krryuto/encountering-the-other"
+license: "CC-BY-4.0"
+abstract: >-
+  A human-led, transparently AI-assisted framework for moral reasoning under radical difference,
+  with a constitutional charter, decision procedure, evaluation rubric, and adversarial scenarios
+  for testing value generalization, agency, non-domination, moral uncertainty, and coexistence.
+keywords:
+  - artificial intelligence
+  - AI alignment
+  - machine ethics
+  - value alignment
+  - constitutional AI
+  - multi-agent systems
+  - moral uncertainty
+  - AI welfare
+  - artificial personhood
