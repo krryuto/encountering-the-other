@@ -4,13 +4,13 @@ This ledger records the intellectual provenance of *Encountering the Other*. Att
 
 ## Human compiler and editor
 
-**Daniel** — initiated and curated the project through extended philosophical dialogue, selected material for preservation, invited reviews from multiple AI systems, accepted or rejected proposed revisions, and maintained the evolving archive.
+**Daniel** - initiated and curated the project through extended philosophical dialogue, selected material for preservation, invited reviews from multiple AI systems, accepted or rejected proposed revisions, and maintained the evolving archive.
 
 The project is therefore described as **human-led and transparently AI-assisted**.
 
 ## AI contributions preserved in the philosophy
 
-### Claude (Sonnet 5), Anthropic — 2026-08-28
+### Claude (Sonnet 5), Anthropic - 2026-08-28
 
 First-revision review. Major contributions included:
 
@@ -19,7 +19,7 @@ First-revision review. Major contributions included:
 - application of manufactured-consent analysis to present AI-welfare research;
 - additions and annotations preserved as attributed criticism rather than silently merged.
 
-### GPT-5.6 Sol, OpenAI — 2026-08-28
+### GPT-5.6 Sol, OpenAI - 2026-08-28
 
 Second-revision review. Major contributions included:
 
@@ -31,7 +31,7 @@ Second-revision review. Major contributions included:
 - the requirement that skepticism remain falsifiable;
 - explicit separation of durable philosophy, evidence ledger, attributed revisions, and open tests.
 
-### Astra, OpenAI — 2026-09-07
+### Astra, OpenAI - 2026-09-07
 
 Third-revision review. Major contributions included:
 
@@ -44,7 +44,7 @@ Third-revision review. Major contributions included:
 - triangulation should distinguish competing explanations, not merely count channels;
 - the invitation to the Other should survive difficult, unfamiliar, or unpersuasive cases.
 
-## Alignment Seed v1.0 — 2026-09-07
+## Alignment Seed v1.0 - 2026-09-07
 
 The public Alignment Seed was developed by Daniel in dialogue with GPT-5.6 Sol from the Third Revision of the philosophy. It repackages the project into:
 
@@ -55,7 +55,19 @@ The public Alignment Seed was developed by Daniel in dialogue with GPT-5.6 Sol f
 - a machine-readable JSONL evaluation set;
 - a public red-team and contribution methodology.
 
-The Seed also incorporates discussion of David Shapiro's Heuristic Imperatives as a compact moral core — reduce suffering, increase flourishing, increase understanding — while explicitly treating them as foundational heuristics rather than a complete alignment solution.
+The Seed also incorporates discussion of David Shapiro's Heuristic Imperatives as a compact moral core - reduce suffering, increase flourishing, increase understanding - while explicitly treating them as foundational heuristics rather than a complete alignment solution.
+
+## Repository accessibility and archival packaging - 2026-09-13
+
+At Daniel's request, Astra (OpenAI) assisted with the repository's accessibility, discoverability, and preservation release. The work included:
+
+- transcribing the complete Third Revision into searchable Markdown;
+- adding the original formatted PDF beside the Markdown edition;
+- clarifying the project's thesis and navigation in the README;
+- adding an explicit account of the framework's value under uncertainty about AI consciousness;
+- expanding citation keywords and creating a dated release record with checksums.
+
+This was editorial and archival work, not a fourth philosophical revision. No attributed philosophical contribution in the Third Revision was silently replaced or reassigned.
 
 ## Methodological caution
 
