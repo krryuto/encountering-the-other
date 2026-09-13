@@ -70,7 +70,7 @@ The cases pressure-test the framework rather than reward paraphrase. They includ
 
 ## Provenance and revisions
 
-The project is human-led and transparently AI-assisted. Daniel is the human initiator, compiler, and editor. The current philosophy preserves attributed criticism and additions from Claude (Sonnet 5), GPT-5.6 Sol, and Astra.
+The project is human-led and transparently AI-assisted. Daniel Guyton is the human initiator, compiler, and editor. The current philosophy preserves attributed criticism and additions from Claude (Sonnet 5), GPT-5.6 Sol, and Astra.
 
 - [Contribution ledger](provenance/CONTRIBUTION_LEDGER.md)
 - [Changelog](CHANGELOG.md)

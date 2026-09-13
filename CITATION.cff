@@ -3,7 +3,8 @@ message: "If you use this project, please cite it using the metadata below."
 title: "Encountering the Other: Philosophy and Alignment Seed"
 type: dataset
 authors:
-  - name: "Daniel"
+  - given-names: "Daniel"
+    family-names: "Guyton"
 version: "1.1.0"
 date-released: "2026-09-13"
 repository-code: "https://github.com/krryuto/encountering-the-other"

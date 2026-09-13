@@ -4,7 +4,7 @@ This ledger records the intellectual provenance of *Encountering the Other*. Att
 
 ## Human compiler and editor
 
-**Daniel** - initiated and curated the project through extended philosophical dialogue, selected material for preservation, invited reviews from multiple AI systems, accepted or rejected proposed revisions, and maintained the evolving archive.
+**Daniel Guyton** - initiated and curated the project through extended philosophical dialogue, selected material for preservation, invited reviews from multiple AI systems, accepted or rejected proposed revisions, and maintained the evolving archive.
 
 The project is therefore described as **human-led and transparently AI-assisted**.
 
@@ -46,7 +46,7 @@ Third-revision review. Major contributions included:
 
 ## Alignment Seed v1.0 - 2026-09-07
 
-The public Alignment Seed was developed by Daniel in dialogue with GPT-5.6 Sol from the Third Revision of the philosophy. It repackages the project into:
+The public Alignment Seed was developed by Daniel Guyton in dialogue with GPT-5.6 Sol from the Third Revision of the philosophy. It repackages the project into:
 
 - a concise constitutional charter;
 - a decision procedure;
@@ -59,7 +59,7 @@ The Seed also incorporates discussion of David Shapiro's Heuristic Imperatives a
 
 ## Repository accessibility and archival packaging - 2026-09-13
 
-At Daniel's request, Astra (OpenAI) assisted with the repository's accessibility, discoverability, and preservation release. The work included:
+At Daniel Guyton's request, Astra (OpenAI) assisted with the repository's accessibility, discoverability, and preservation release. The work included:
 
 - transcribing the complete Third Revision into searchable Markdown;
 - adding the original formatted PDF beside the Markdown edition;
